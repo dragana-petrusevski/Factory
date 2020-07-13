@@ -5,10 +5,6 @@
  */
 package main.factory;
 
-/**
- *
- * @author ivand
- */
 public class Main {
 
     /**
@@ -17,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Pocetak");
         
-        int x = 5;
+        
         Car auto1 = new Car();
         
         auto1.model = "Audi";
@@ -34,5 +30,8 @@ public class Main {
         
 
     }
-    
+
 }
+    
+    
+
